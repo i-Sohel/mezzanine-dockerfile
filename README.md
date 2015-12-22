@@ -1,4 +1,4 @@
-# mezzanine-dockerfile
+# Mezzanine Dockerfile
 A simple and complete Dockerfile to automate mezzanine deployment
 
 Mezzanine is a powerful CMS built on Django framework, the automated Docker file will make it easier for you to deploy an image that contains mezzanine installed.
